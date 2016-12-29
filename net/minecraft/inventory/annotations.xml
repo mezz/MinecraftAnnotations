@@ -1,0 +1,5 @@
+<root>
+    <item name='net.minecraft.inventory.Slot net.minecraft.client.renderer.texture.TextureAtlasSprite getBackgroundSprite()'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+</root>
