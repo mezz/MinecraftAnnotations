@@ -1,0 +1,11 @@
+<root>
+    <item name='net.minecraft.block.Block displayOnCreativeTab'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='net.minecraft.block.Block net.minecraft.block.Block setCreativeTab(net.minecraft.creativetab.CreativeTabs) 0'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='net.minecraft.block.Block net.minecraft.creativetab.CreativeTabs getCreativeTabToDisplayOn()'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+</root>

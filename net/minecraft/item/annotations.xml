@@ -1,0 +1,5 @@
+<root>
+    <item name='net.minecraft.item.ItemBlock net.minecraft.creativetab.CreativeTabs getCreativeTab()'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+</root>
