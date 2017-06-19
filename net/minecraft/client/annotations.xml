@@ -1,0 +1,26 @@
+<root>
+    <item name="net.minecraft.client.Minecraft crashReporter">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.Minecraft currentServerData">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.Minecraft objectMouseOver">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.Minecraft player">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.Minecraft pointedEntity">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.Minecraft renderGlobal">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.Minecraft serverName">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.Minecraft world">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

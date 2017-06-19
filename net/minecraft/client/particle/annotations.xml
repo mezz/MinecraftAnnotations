@@ -1,0 +1,17 @@
+<root>
+    <item name="net.minecraft.client.particle.Particle particleTexture">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name='net.minecraft.client.particle.Particle void setParticleTexture(net.minecraft.client.renderer.texture.TextureAtlasSprite) 0'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name="net.minecraft.client.particle.ParticleFirework.Starter fireworkExplosions">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.particle.ParticleFirework.Starter void createParticle(double, double, double, double, double, double, int[], int[], boolean, boolean) 7">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.particle.ParticleMobAppearance entity">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

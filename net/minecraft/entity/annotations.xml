@@ -1,0 +1,53 @@
+<root>
+    <item name="net.minecraft.entity.Entity net.minecraft.util.math.Vec3d getLookVec()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.Entity ridingEntity">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityAreaEffectCloud owner">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityAreaEffectCloud ownerUniqueId">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityAreaEffectCloud potion">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityCreature net.minecraft.entity.Entity getLeashedToEntity()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityList java.lang.Class getClass(net.minecraft.util.ResourceLocation)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLiving deathLootTable">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLiving leashNBTTag">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLiving leashedToEntity">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLiving net.minecraft.entity.Entity getLeashedToEntity()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLivingBase activeItemStack">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLivingBase attackingPlayer">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLivingBase attributeMap">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLivingBase entityLivingToAttack">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLivingBase lastAttacker">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.EntityLivingBase world">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

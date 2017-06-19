@@ -1,0 +1,14 @@
+<root>
+    <item name="net.minecraft.client.gui.achievement.GuiAchievement theAchievement">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.achievement.GuiStats displaySlot">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.achievement.GuiStats.Stats void renderMouseHoverToolTip(net.minecraft.stats.StatCrafting, int, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.achievement.GuiStats.Stats void renderStat(net.minecraft.stats.StatBase, int, int, boolean) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

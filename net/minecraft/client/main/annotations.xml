@@ -1,0 +1,20 @@
+<root>
+    <item name="net.minecraft.client.main.GameConfiguration.FolderInformation assetIndex">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.main.GameConfiguration.ServerInformation serverName">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.main.GameConfiguration.ServerInformation ServerInformation(java.lang.String, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.main.GameConfiguration.UserInformation proxy">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.main.GameConfiguration.UserInformation UserInformation(net.minecraft.util.Session, com.mojang.authlib.properties.PropertMap, com.mojang.authlib.properties.PropertMap, java.net.Proxy) 3">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.main.Main boolean isNullOrEmpty(java.lang.String) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

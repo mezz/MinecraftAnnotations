@@ -1,0 +1,29 @@
+<root>
+    <item name="net.minecraft.client.gui.inventory.GuiContainer clickedSlot">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.inventory.GuiContainer theSlot">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.inventory.GuiContainer net.minecraft.inventory.Slot getSlotAtPosition(int, int)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.inventory.GuiContainer void handleMouseClick(net.minecraft.inventory.Slot, int, int, net.minecraft.inventory.ClickType) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.inventory.GuiContainerCreative destroyItemSlot">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.inventory.GuiContainerCreative inventorySlots">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.inventory.GuiContainerCreative originalSlots">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.inventory.GuiContainerCreative searchField">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.inventory.GuiContainerCreative void setCurrentCreativeTab(net.minecraft.creativetab.CreativeTabs) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

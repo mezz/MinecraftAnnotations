@@ -1,11 +1,44 @@
 <root>
-    <item name='net.minecraft.block.Block displayOnCreativeTab'>
-        <annotation name='javax.annotation.Nullable'/>
+    <item name="net.minecraft.block.Block displayOnCreativeTab">
+        <annotation name="javax.annotation.Nullable"/>
     </item>
-    <item name='net.minecraft.block.Block net.minecraft.block.Block setCreativeTab(net.minecraft.creativetab.CreativeTabs) 0'>
-        <annotation name='javax.annotation.Nullable'/>
+    <item name="net.minecraft.block.Block net.minecraft.block.Block setCreativeTab(net.minecraft.creativetab.CreativeTabs) 0">
+        <annotation name="javax.annotation.Nullable"/>
     </item>
-    <item name='net.minecraft.block.Block net.minecraft.creativetab.CreativeTabs getCreativeTabToDisplayOn()'>
-        <annotation name='javax.annotation.Nullable'/>
+    <item name="net.minecraft.block.Block net.minecraft.creativetab.CreativeTabs getCreativeTabToDisplayOn()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.Block boolean isEqualTo(net.minecraft.block.Block, net.minecraft.block.Block) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.Block boolean isEqualTo(net.minecraft.block.Block, net.minecraft.block.Block) 1">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockFlower type">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockLeaves surroundings">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockPortal.Size bottomLeft">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockPumpkin golemBasePattern">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockPumpkin golemPattern">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockPumpkin snowmanBasePattern">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockPumpkin snowmanPattern">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockSkull witherBasePattern">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.block.BlockSkull witherPattern">
+        <annotation name="javax.annotation.Nullable"/>
     </item>
 </root>

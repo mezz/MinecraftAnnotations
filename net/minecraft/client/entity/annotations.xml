@@ -1,5 +1,8 @@
 <root>
-    <item name='net.minecraft.client.entity.EntityPlayerSP void addStat(net.minecraft.stats.StatBase, int) 0'>
-        <annotation name='javax.annotation.Nullable'/>
+    <item name="net.minecraft.client.entity.AbstractClientPlayer playerInfo">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.entity.EntityPlayerSP void addStat(net.minecraft.stats.StatBase, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
     </item>
 </root>

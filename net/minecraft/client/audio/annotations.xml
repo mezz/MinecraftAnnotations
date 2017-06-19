@@ -1,0 +1,11 @@
+<root>
+    <item name="net.minecraft.client.audio.MusicTicker currentMusic">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.audio.SoundManager void stop(java.lang.String, net.minecraft.util.SoundCategory) 1">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.audio.SoundHandler void stop(java.lang.String, net.minecraft.util.SoundCategory) 1">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

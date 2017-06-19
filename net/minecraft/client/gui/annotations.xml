@@ -1,0 +1,128 @@
+<root>
+    <item name="net.minecraft.client.gui.FontRenderer int getStringWidth(java.lang.String) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.FontRenderer int renderString(java.lang.String, float, float, int, boolean) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.FontRenderer java.lang.String trimStringNewline(java.lang.String) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiControls buttonId">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiCreateWorld savedGameMode">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiCustomizeWorldScreen GuiCustomizeWorldScreen(net.minecraft.client.gui.GuiScreen, java.lang.String) 1">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiCustomizeWorldScreen void loadValues(java.lang.String) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiGameOver causeOfDeath">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiIngame void displayTitle(java.lang.String, java.lang.String, int, int, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiIngame void displayTitle(java.lang.String, java.lang.String, int, int, int) 1">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiListWorldSelectionEntry icon">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiListWorldSelectionEntry iconFile">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiMainMenu realmsNotification">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiMultiplayer hoveringText">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiMultiplayer lanServerDetector">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiOptionsRowList net.minecraft.client.gui.GuiButton createButton(net.minecraft.client.Minecraft, int, int, net.minecraft.client.settings.GameSettings.Options)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiOptionsRowList net.minecraft.client.gui.GuiButton createButton(net.minecraft.client.Minecraft, int, int, net.minecraft.client.settings.GameSettings.Options) 3">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiOptionsRowList.Row Row(net.minecraft.client.gui.GuiButton, net.minecraft.client.gui.GuiButton) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiOptionsRowList.Row Row(net.minecraft.client.gui.GuiButton, net.minecraft.client.gui.GuiButton) 1">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiOptionsRowList.Row buttonA">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiOptionsRowList.Row buttonB">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiPageButtonList focusedControl">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiPageButtonList net.minecraft.client.gui.Gui getFocusedControl()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiPageButtonList net.minecraft.client.gui.Gui getComponent(int)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiPageButtonList.GuiEntry boolean clickComponent(net.minecraft.client.gui.Gui, int, int, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiPageButtonList.GuiEntry void releaseComponent(net.minecraft.client.gui.Gui, int, int, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiPageButtonList.GuiEntry void renderComponent(net.minecraft.client.gui.Gui, int, int, int, boolean) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiPlayerTabOverlay footer">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiPlayerTabOverlay header">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiScreen selectedButton">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiScreen boolean handleComponentClick(net.minecraft.util.text.ITextComponent) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiScreen void handleComponentHover(net.minecraft.util.text.ITextComponent, int, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiScreenBook bookPages">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiScreenBook cachedComponents">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiSlider GuiSlider(net.minecraft.client.gui.GuiPageButtonList.GuiResponder, int, int, int, java.lang.String, float, float, float, net.minecraft.client.gui.GuiSlider.FormatHelper) 8">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiSlider formatHelper">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiSpectator menu">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiTextField guiResponder">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiTextField void setGuiResponder(net.minecraft.client.gui.GuiPageButtonList.GuiResponder) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiWorldSelection worldVersTooltip">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.ServerListEntryNormal icon">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.gui.GuiListExtended net.minecraft.client.gui.GuiListExtended.IGuiListEntry getListEntry(int)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

@@ -1,0 +1,17 @@
+<root>
+    <item name="net.minecraft.client.multiplayer.GuiConnecting networkManager">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.multiplayer.ServerAddress net.minecraft.client.multiplayer.ServerAddress fromString(java.lang.String) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.multiplayer.ServerData serverIcon">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.multiplayer.ServerData java.lang.String getBase64EncodedIconData()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.multiplayer.ThreadLanServerPing java.lang.String getAdFromPingResponse(java.lang.String)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

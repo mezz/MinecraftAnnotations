@@ -1,0 +1,17 @@
+<root>
+    <item name="net.minecraft.client.model.ModelEnderCrystal base">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.model.ModelRenderer childModels">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.model.ModelSlime slimeRightEye">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.model.ModelSlime slimeLeftEye">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.model.ModelSlime slimeMouth">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

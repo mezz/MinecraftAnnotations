@@ -1,0 +1,14 @@
+<root>
+    <item name="net.minecraft.client.network.NetHandlerPlayClient guiScreenServer">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.network.NetHandlerPlayClient NetHandlerPlayClient(net.minecraft.client.Minecraft, net.minecraft.client.gui.GuiScreen, net.minecraft.network.NetworkManager, com.mojang.authlib.GameProfile) 2">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.network.NetHandlerPlayClient net.minecraft.client.network.NetworkPlayerInfo getPlayerInfo(java.util.UUID)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.client.network.NetworkPlayerInfo skinType">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>
