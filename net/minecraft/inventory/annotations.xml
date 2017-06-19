@@ -1,0 +1,23 @@
+<root>
+    <item name="net.minecraft.inventory.ContainerBeacon void onContainerClosed(net.minecraft.entity.player.EntityPlayer) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.inventory.ContainerRepair net.minecraft.inventory.Slot getSlot(int)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.inventory.InventoryBasic changeListeners">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.inventory.InventoryEnderChest associatedChest">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.inventory.InventoryEnderChest void setChestTileEntity(net.minecraft.tileentity.TileEntityEnderChest)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.inventory.InventoryMerchant currentRecipe">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.inventory.InventoryMerchant net.minecraft.village.MerchantRecipe getCurrentRecipe()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

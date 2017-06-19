@@ -1,0 +1,17 @@
+<root>
+    <item name="net.minecraft.scoreboard.Scoreboard net.minecraft.scoreboard.ScorePlayerTeam getTeam(java.lang.String)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.scoreboard.Scoreboard void removeEntity(net.minecraft.entity.Entity) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.scoreboard.Scoreboard void removeObjectiveFromEntity(java.lang.String, net.minecraft.scoreboard.ScoreObjective) 1">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.scoreboard.ScoreboardSaveData delayedInitNbt">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.scoreboard.ServerScoreboard void setObjectiveInDisplaySlot(int, net.minecraft.scoreboard.ScoreObjective) 1">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

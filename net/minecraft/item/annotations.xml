@@ -1,0 +1,44 @@
+<root>
+    <item name="net.minecraft.item.Item containerItem">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.Item int getIdFromItem(net.minecraft.item.Item) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.Item net.minecraft.util.math.RayTraceResult rayTrace(net.minecraft.world.World, net.minecraft.entity.player.EntityPlayer, boolean)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.Item.ToolMaterial net.minecraft.item.Item getRepairItem()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemArmor.ArmorMaterial net.minecraft.item.Item getRepairItem()">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemColored subtypeNames">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemColored net.minecraft.item.ItemColored setSubtypeNames(java.lang.String[]) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemFood potionId">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemFood net.minecraft.item.ItemFood setPotionEffect(net.minecraft.potion.PotionEffect, float) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemStack item">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemStack itemFrame">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemStack void setItemFrame(net.minecraft.entity.item.EntityItemFrame) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemStack stackTagCompound">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.item.ItemWritableBook boolean isNBTValid(net.minecraft.nbt.NBTTagCompound) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>

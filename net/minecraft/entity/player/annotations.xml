@@ -1,0 +1,47 @@
+<root>
+    <item name="net.minecraft.entity.player.EntityPlayer spawnChunk">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayer startMinecartRidingCoordinate">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayer void addStat(net.minecraft.stats.StatBase) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayer void addStat(net.minecraft.stats.StatBase, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayer boolean isInvisibleToPlayer(net.minecraft.entity.player.EntityPlayer) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayer void onDeath(net.minecraft.util.DamageSource) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayer void setSpawnChunk(net.minecraft.util.math.BlockPos, boolean, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayer void setSpawnPoint(net.minecraft.util.math.BlockPos, boolean) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayerMP connection">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayerMP spectatingEntity">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayerMP void addStat(net.minecraft.stats.StatBase, int) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayerMP net.minecraft.util.math.BlockPos getBedLocation(int)">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayerMP void sendTileEntityUpdate(net.minecraft.tileentity.TileEntity) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayerMP void setSpectatingEntity(net.minecraft.entity.Entity) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+    <item name="net.minecraft.entity.player.EntityPlayerMP void takeStat(net.minecraft.stats.StatBase) 0">
+        <annotation name="javax.annotation.Nullable"/>
+    </item>
+</root>
