@@ -1,0 +1,14 @@
+<root>
+    <item name='net.minecraft.nbt.NBTBase net.minecraft.nbt.NBTBase createNewByType(byte)'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='net.minecraft.nbt.NBTTagCompound net.minecraft.nbt.NBTBase getTag(java.lang.String)'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='net.minecraft.nbt.NBTUtil boolean areNBTEquals(net.minecraft.nbt.NBTBase, net.minecraft.nbt.NBTBase, boolean) 0'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+    <item name='net.minecraft.nbt.NBTUtil boolean areNBTEquals(net.minecraft.nbt.NBTBase, net.minecraft.nbt.NBTBase, boolean) 1'>
+        <annotation name='javax.annotation.Nullable'/>
+    </item>
+</root>
